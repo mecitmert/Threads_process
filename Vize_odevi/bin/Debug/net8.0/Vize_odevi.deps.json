@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Vize_odevi/1.0.0": {
+        "runtime": {
+          "Vize_odevi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vize_odevi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
